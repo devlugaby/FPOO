@@ -1,0 +1,44 @@
+h2{
+    color:rgb(237, 102, 87);
+}
+
+h1{
+     color:rgb(237, 102, 87);
+}
+
+img{
+   justify-content:space-between;
+}
+
+
+.button {
+    background-color:salmon; 
+    border-radius: 12px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: 2px solid rgb(130, 37, 26); 
+    transition-duration: 0.4s;
+  }
+  .button:hover {
+    background-color: rgb(135, 30, 18);
+    color: white;
+  }
+  
+.cabecalh0{
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align:justify;
+    font-size:medium;
+    background-color:black;
+}
+
+.container{
+    display:flex;
+    align-items: flex-start;
+    justify-content:space-between;
+}
